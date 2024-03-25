@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tay/static/css/main.4f83baa4.css",
+    "main.js": "/tay/static/js/main.7ee230c2.js",
+    "static/js/453.a5f16303.chunk.js": "/tay/static/js/453.a5f16303.chunk.js",
+    "index.html": "/tay/index.html",
+    "main.4f83baa4.css.map": "/tay/static/css/main.4f83baa4.css.map",
+    "main.7ee230c2.js.map": "/tay/static/js/main.7ee230c2.js.map",
+    "453.a5f16303.chunk.js.map": "/tay/static/js/453.a5f16303.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f83baa4.css",
+    "static/js/main.7ee230c2.js"
+  ]
+}
